@@ -1,6 +1,6 @@
 # ⚽ Soccer Stars Clone (Unity 2D)
 
-![Görsel](g1.png)
+![Görsel](Görseller/g1.png)
 
 ## 📝 Proje Hakkında
 Bu proje, popüler **Soccer Stars** oyununun mekaniklerini ve oynanış mantığını Unity oyun motoru ile yeniden oluşturduğum bir **fizik tabanlı 2D futbol** oyunudur.
