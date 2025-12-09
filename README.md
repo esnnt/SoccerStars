@@ -15,7 +15,7 @@ Amaç; sıra tabanlı (turn-based) bir sistemde, oyuncu taşlarını fırlatarak
 ## 🎮 Nasıl Oynanır?
 Oyun tamamen **Fare (Mouse)** ile oynanır:
 1.  Kendi takımındaki bir taşa tıkla ve basılı tut.
-2.  Farenin imlecini ters yöne doğru çekerek (okçuluk gibi) fırlatma gücünü ve yönünü ayarla.
+2.  Farenin imlecini topun gideceği yöne doğru çekerek fırlatma gücünü ve yönünü ayarla.
 3.  Fareyi bıraktığında taş fırlatılır.
 
 ## 🛠️ Teknik Detaylar
